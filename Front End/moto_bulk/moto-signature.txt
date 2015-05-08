@@ -1,0 +1,1 @@
+In computer science, a type signature or type annotation defines the inputs and outputs for a function, subroutine or method. A type signature includes at least the function name and the number of its arguments. In some programming languages, it may also specify the function's return type, the types of its arguments, or errors it may pass back.

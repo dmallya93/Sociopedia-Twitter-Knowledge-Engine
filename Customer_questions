@@ -1,0 +1,3265 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="weight" type="double" />
+    </attributes>
+    <nodes>
+      <node id="" label="">
+        <attvalues>
+          <attvalue for="0" value="26.0069848771" />
+        </attvalues>
+      </node>
+      <node id=":/" label=":/">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="gp" label="gp">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="#gadgets" label="#gadgets">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="(if" label="(if">
+        <attvalues>
+          <attvalue for="0" value="-2.95879734614" />
+        </attvalues>
+      </node>
+      <node id="go" label="go">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="gossip" label="gossip">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="better?" label="better?">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="event&quot;&quot;" label="event&quot;&quot;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="tonight's" label="tonight's">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="ever..." label="ever...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hmmm" label="hmmm">
+        <attvalues>
+          <attvalue for="0" value="0.171686262698" />
+        </attvalues>
+      </node>
+      <node id=".@umarcheema1" label=".@umarcheema1">
+        <attvalues>
+          <attvalue for="0" value="4.54528005064" />
+        </attvalues>
+      </node>
+      <node id="1949" label="1949">
+        <attvalues>
+          <attvalue for="0" value="-2.49306144334" />
+        </attvalues>
+      </node>
+      <node id="note4" label="note4">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="&quot;&quot;timed" label="&quot;&quot;timed">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="finally" label="finally">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="must" label="must">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="worth" label="worth">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="brokers?" label="brokers?">
+        <attvalues>
+          <attvalue for="0" value="0.802775422664" />
+        </attvalues>
+      </node>
+      <node id="smartphone" label="smartphone">
+        <attvalues>
+          <attvalue for="0" value="0.624721592316" />
+        </attvalues>
+      </node>
+      <node id="today?" label="today?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="more:" label="more:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="event?&quot;&#10;" label="event?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="sony" label="sony">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="etc?..." label="etc?...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="treating" label="treating">
+        <attvalues>
+          <attvalue for="0" value="-1.16703787691" />
+        </attvalues>
+      </node>
+      <node id="button" label="button">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="list" label="list" />
+      <node id="soc?check" label="soc?check">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="j..." label="j...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="item" label="item">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="small" label="small">
+        <attvalues>
+          <attvalue for="0" value="-2.23260230527" />
+        </attvalues>
+      </node>
+      <node id="-&gt;" label="-&gt;">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="&quot;#galaxy#smartphone" label="&quot;#galaxy#smartphone">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="amnesty?" label="amnesty?">
+        <attvalues>
+          <attvalue for="0" value="-0.42453324894" />
+        </attvalues>
+      </node>
+      <node id="answer." label="answer.">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="video" label="video">
+        <attvalues>
+          <attvalue for="0" value="-5.70406052784" />
+        </attvalues>
+      </node>
+      <node id="#ppc" label="#ppc">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#bmw" label="#bmw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="makers" label="makers">
+        <attvalues>
+          <attvalue for="0" value="-4.31776616672" />
+        </attvalues>
+      </node>
+      <node id="even" label="even">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="headset" label="headset">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="what" label="what">
+        <attvalues>
+          <attvalue for="0" value="49.0297080864" />
+        </attvalues>
+      </node>
+      <node id="suo" label="suo">
+        <attvalues>
+          <attvalue for="0" value="6.87584939669" />
+        </attvalues>
+      </node>
+      <node id="range&#10;" label="range&#10;" />
+      <node id="gen)" label="gen)">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="new" label="new">
+        <attvalues>
+          <attvalue for="0" value="25.2494431846" />
+        </attvalues>
+      </node>
+      <node id="x+1" label="x+1">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="ever" label="ever">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="exercise" label="exercise">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="join" label="join">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="men" label="men">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#motox" label="#motox">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="cheap-ish" label="cheap-ish">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="misano!" label="misano!">
+        <attvalues>
+          <attvalue for="0" value="-3.54517744448" />
+        </attvalues>
+      </node>
+      <node id="g?&quot;&#10;" label="g?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="9.32888472631" />
+        </attvalues>
+      </node>
+      <node id="wait" label="wait">
+        <attvalues>
+          <attvalue for="0" value="-1.43775164974" />
+        </attvalues>
+      </node>
+      <node id="samples:" label="samples:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;oh?" label="&quot;oh?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="ones'" label="ones'">
+        <attvalues>
+          <attvalue for="0" value="0.657769452623" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;why" label="&quot;why">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="celebrate?" label="celebrate?">
+        <attvalues>
+          <attvalue for="0" value="0.171686262698" />
+        </attvalues>
+      </node>
+      <node id="products" label="products">
+        <attvalues>
+          <attvalue for="0" value="13.5935173522" />
+        </attvalues>
+      </node>
+      <node id="ordered?" label="ordered?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="i'm" label="i'm">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="makes" label="makes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="via" label="via">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="apple" label="apple">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="imagine" label="imagine">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="#csrracing" label="#csrracing">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hint:" label="hint:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;i've" label="&quot;i've">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;my" label="&quot;my">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="herlings" label="herlings">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id=";)" label=";)">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="use" label="use">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="eye" label="eye">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="would" label="would">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="&amp;" label="&amp;">
+        <attvalues>
+          <attvalue for="0" value="2.74020257015" />
+        </attvalues>
+      </node>
+      <node id="unplug." label="unplug.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="next" label="next">
+        <attvalues>
+          <attvalue for="0" value="1.76167537496" />
+        </attvalues>
+      </node>
+      <node id="leaks" label="leaks">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="camera" label="camera">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="cashback" label="cashback">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="taken" label="taken">
+        <attvalues>
+          <attvalue for="0" value="2.06037340085" />
+        </attvalues>
+      </node>
+      <node id="tell" label="tell">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="today" label="today">
+        <attvalues>
+          <attvalue for="0" value="-1.43775164974" />
+        </attvalues>
+      </node>
+      <node id="wearable?" label="wearable?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="moto." label="moto.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="phone" label="phone">
+        <attvalues>
+          <attvalue for="0" value="-2.95879734614" />
+        </attvalues>
+      </node>
+      <node id="#paris" label="#paris">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="name?" label="name?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="moto?" label="moto?">
+        <attvalues>
+          <attvalue for="0" value="8.50035996783" />
+        </attvalues>
+      </node>
+      <node id="moto:" label="moto:">
+        <attvalues>
+          <attvalue for="0" value="6.54478773321" />
+        </attvalues>
+      </node>
+      <node id="women" label="women">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="everybody!!" label="everybody!!">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="this" label="this">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="work" label="work">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="del" label="del">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="can" label="can">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="my" label="my">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;from" label="&quot;from">
+        <attvalues>
+          <attvalue for="0" value="-2.95879734614" />
+        </attvalues>
+      </node>
+      <node id="think?" label="think?">
+        <attvalues>
+          <attvalue for="0" value="0.61370563888" />
+        </attvalues>
+      </node>
+      <node id="give" label="give">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="motorola's" label="motorola's">
+        <attvalues>
+          <attvalue for="0" value="9.63583018657" />
+        </attvalues>
+      </node>
+      <node id="&quot;@mashable" label="&quot;@mashable">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="chic" label="chic">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="turn" label="turn">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="exceptional" label="exceptional">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="around?" label="around?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hot" label="hot">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="??" label="??">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="cristal" label="cristal">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="lah" label="lah">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="after" label="after">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="different" label="different">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#weekendride" label="#weekendride">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="coming" label="coming">
+        <attvalues>
+          <attvalue for="0" value="9.63583018657" />
+        </attvalues>
+      </node>
+      <node id="sensors?" label="sensors?">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="remember" label="remember">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="watches." label="watches.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="green" label="green">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#mobile" label="#mobile">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="allow" label="allow">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="???" label="???">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="playing" label="playing">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="talk" label="talk">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#ride" label="#ride">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="still" label="still">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="-5.39434654852" />
+        </attvalues>
+      </node>
+      <node id="la" label="la">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="sale" label="sale">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="gen" label="gen">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="better" label="better">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="offers" label="offers">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="choose" label="choose">
+        <attvalues>
+          <attvalue for="0" value="-3.59167373201" />
+        </attvalues>
+      </node>
+      <node id="2014" label="2014">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="2010" label="2010">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="happened" label="happened">
+        <attvalues>
+          <attvalue for="0" value="0.802775422664" />
+        </attvalues>
+      </node>
+      <node id="good" label="good">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;new" label="&quot;new">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="workout" label="workout">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="break" label="break">
+        <attvalues>
+          <attvalue for="0" value="3.39056208757" />
+        </attvalues>
+      </node>
+      <node id="it?" label="it?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="happened?" label="happened?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="1951" label="1951">
+        <attvalues>
+          <attvalue for="0" value="-4.69028602068" />
+        </attvalues>
+      </node>
+      <node id="day" label="day">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="software/ui" label="software/ui">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="name" label="name">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="aware?" label="aware?">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="watch?&quot;&#10;" label="watch?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="ifa" label="ifa">
+        <attvalues>
+          <attvalue for="0" value="-5.70406052784" />
+        </attvalues>
+      </node>
+      <node id="found" label="found">
+        <attvalues>
+          <attvalue for="0" value="-2.9314718056" />
+        </attvalues>
+      </node>
+      <node id="workout?:" label="workout?:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="meal" label="meal">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hard" label="hard">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="yeah" label="yeah">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="bluetooth" label="bluetooth">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="&quot;motorola" label="&quot;motorola">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="ft" label="ft">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="happen" label="happen">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="thing" label="thing">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="event" label="event">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="rt" label="rt">
+        <attvalues>
+          <attvalue for="0" value="0.802775422664" />
+        </attvalues>
+      </node>
+      <node id="(2013):" label="(2013):">
+        <attvalues>
+          <attvalue for="0" value="17.6438923393" />
+        </attvalues>
+      </node>
+      <node id="wondered" label="wondered">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="space" label="space">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="in?&quot;&#10;" label="in?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#technology&quot;&#10;" label="#technology&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="looking" label="looking">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="got" label="got">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="correct" label="correct">
+        <attvalues>
+          <attvalue for="0" value="-2.49306144334" />
+        </attvalues>
+      </node>
+      <node id="jacket!?" label="jacket!?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="cjp" label="cjp">
+        <attvalues>
+          <attvalue for="0" value="-0.42453324894" />
+        </attvalues>
+      </node>
+      <node id="e." label="e.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="e:" label="e:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;hello" label="&quot;hello">
+        <attvalues>
+          <attvalue for="0" value="1.333366125" />
+        </attvalues>
+      </node>
+      <node id="g" label="g">
+        <attvalues>
+          <attvalue for="0" value="42.9780004443" />
+        </attvalues>
+      </node>
+      <node id="where" label="where">
+        <attvalues>
+          <attvalue for="0" value="2.06037340085" />
+        </attvalues>
+      </node>
+      <node id="100%" label="100%">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="happening?" label="happening?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="go?" label="go?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="heck" label="heck">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="lte" label="lte">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="think" label="think">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="first" label="first">
+        <attvalues>
+          <attvalue for="0" value="-0.783640596221" />
+        </attvalues>
+      </node>
+      <node id="major" label="major">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="uk?&quot;&quot;" label="uk?&quot;&quot;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="blown" label="blown">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="feel" label="feel">
+        <attvalues>
+          <attvalue for="0" value="8.01707090578" />
+        </attvalues>
+      </node>
+      <node id="s..." label="s...">
+        <attvalues>
+          <attvalue for="0" value="-7.09035488896" />
+        </attvalues>
+      </node>
+      <node id="one" label="one">
+        <attvalues>
+          <attvalue for="0" value="15.3433725254" />
+        </attvalues>
+      </node>
+      <node id="bradshaw" label="bradshaw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="quality" label="quality">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="you're" label="you're">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="1s" label="1s">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="killed/injured" label="killed/injured">
+        <attvalues>
+          <attvalue for="0" value="-2.90943989873" />
+        </attvalues>
+      </node>
+      <node id="bands?" label="bands?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="anyone" label="anyone">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="#radio" label="#radio">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="kot" label="kot">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="shell" label="shell">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;#engadget" label="&quot;#engadget">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="xperiaz3?" label="xperiaz3?">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="took" label="took">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="first?" label="first?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hypocrites&quot;&#10;" label="hypocrites&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="here's" label="here's">
+        <attvalues>
+          <attvalue for="0" value="-3.04718956217" />
+        </attvalues>
+      </node>
+      <node id="uk?" label="uk?">
+        <attvalues>
+          <attvalue for="0" value="0.804713351924" />
+        </attvalues>
+      </node>
+      <node id="king" label="king">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="kind" label="kind">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="efficiency?" label="efficiency?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;@aylamonic" label="&quot;@aylamonic">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;millet" label="&quot;millet">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#yamaha" label="#yamaha">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="specs" label="specs">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="ktm" label="ktm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="future" label="future">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="supposed" label="supposed">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="design" label="design">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="providing" label="providing">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="and" label="and">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="fall?" label="fall?">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="omap5432" label="omap5432">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="modern" label="modern">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="talking" label="talking">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="mins" label="mins">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="sell" label="sell">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="able" label="able">
+        <attvalues>
+          <attvalue for="0" value="-2.95879734614" />
+        </attvalues>
+      </node>
+      <node id="aside" label="aside">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="pasai" label="pasai">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="paulin" label="paulin">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hunnid'" label="hunnid'">
+        <attvalues>
+          <attvalue for="0" value="6.43851296842" />
+        </attvalues>
+      </node>
+      <node id="changed?" label="changed?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="take" label="take">
+        <attvalues>
+          <attvalue for="0" value="1.78112417513" />
+        </attvalues>
+      </node>
+      <node id="which" label="which">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="so" label="so">
+        <attvalues>
+          <attvalue for="0" value="1.76167537496" />
+        </attvalues>
+      </node>
+      <node id="=" label="=">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="!&quot;&#10;" label="!&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="towards" label="towards">
+        <attvalues>
+          <attvalue for="0" value="-2.85203026392" />
+        </attvalues>
+      </node>
+      <node id="index" label="index" />
+      <node id="tab3" label="tab3">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="knew" label="knew">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="staffers" label="staffers">
+        <attvalues>
+          <attvalue for="0" value="-0.42453324894" />
+        </attvalues>
+      </node>
+      <node id="where's" label="where's">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="order?" label="order?">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="kat" label="kat">
+        <attvalues>
+          <attvalue for="0" value="1.78112417513" />
+        </attvalues>
+      </node>
+      <node id="device" label="device">
+        <attvalues>
+          <attvalue for="0" value="1.30685281944" />
+        </attvalues>
+      </node>
+      <node id="why" label="why">
+        <attvalues>
+          <attvalue for="0" value="-2.90943989873" />
+        </attvalues>
+      </node>
+      <node id="damn!!&quot;&#10;" label="damn!!&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="-2.90943989873" />
+        </attvalues>
+      </node>
+      <node id="ka" label="ka">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="scrambler" label="scrambler">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#technews&quot;&#10;" label="#technews&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="ride?" label="ride?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="wear." label="wear.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="while." label="while.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="(2014):" label="(2014):">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="portfolio" label="portfolio">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="find" label="find">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hrw" label="hrw">
+        <attvalues>
+          <attvalue for="0" value="-0.42453324894" />
+        </attvalues>
+      </node>
+      <node id="money?:" label="money?:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="announcements?" label="announcements?">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="should" label="should">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#tzr" label="#tzr">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="team." label="team.">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="going" label="going">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="&quot;having" label="&quot;having">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="riding" label="riding">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="shot?" label="shot?">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="wearing" label="wearing">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="get" label="get">
+        <attvalues>
+          <attvalue for="0" value="10.1666830625" />
+        </attvalues>
+      </node>
+      <node id="feeling?&quot;&#10;" label="feeling?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="0.61370563888" />
+        </attvalues>
+      </node>
+      <node id="watch" label="watch">
+        <attvalues>
+          <attvalue for="0" value="3.10817970189" />
+        </attvalues>
+      </node>
+      <node id="lucky" label="lucky">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="coast" label="coast">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="omap3630" label="omap3630">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="how:..." label="how:...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="about." label="about.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="trivia." label="trivia.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="manager" label="manager">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="leather" label="leather">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;moto" label="&quot;moto">
+        <attvalues>
+          <attvalue for="0" value="2.41648106154" />
+        </attvalues>
+      </node>
+      <node id="bad" label="bad">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="&quot;#technolgynews" label="&quot;#technolgynews">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="x" label="x">
+        <attvalues>
+          <attvalue for="0" value="0.624721592316" />
+        </attvalues>
+      </node>
+      <node id="kereta" label="kereta">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="art" label="art">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="w..." label="w...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="see" label="see">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="decided" label="decided">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="are" label="are">
+        <attvalues>
+          <attvalue for="0" value="0.61370563888" />
+        </attvalues>
+      </node>
+      <node id="seo" label="seo">
+        <attvalues>
+          <attvalue for="0" value="8.01707090578" />
+        </attvalues>
+      </node>
+      <node id="&quot;whats" label="&quot;whats">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#youtube" label="#youtube">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="wonder" label="wonder">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="brazil" label="brazil">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="said" label="said">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="uk." label="uk.">
+        <attvalues>
+          <attvalue for="0" value="1.22741127776" />
+        </attvalues>
+      </node>
+      <node id="review" label="review">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="week..." label="week...">
+        <attvalues>
+          <attvalue for="0" value="-7.09035488896" />
+        </attvalues>
+      </node>
+      <node id="&quot;ok" label="&quot;ok">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="probably" label="probably">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="360" label="360">
+        <attvalues>
+          <attvalue for="0" value="8.50035996783" />
+        </attvalues>
+      </node>
+      <node id="we" label="we">
+        <attvalues>
+          <attvalue for="0" value="-1.16703787691" />
+        </attvalues>
+      </node>
+      <node id="never" label="never">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="creating" label="creating">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="after?" label="after?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="news" label="news">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="releasing?&quot;&#10;" label="releasing?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="(2014)" label="(2014)">
+        <attvalues>
+          <attvalue for="0" value="11.2877846786" />
+        </attvalues>
+      </node>
+      <node id="last" label="last">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="kidding?&quot;&#10;" label="kidding?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="dalvik" label="dalvik">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;&quot;&quot;hello" label="&quot;&quot;&quot;hello">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="make..." label="make...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="mana" label="mana">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="visible?" label="visible?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="moto360" label="moto360">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#website" label="#website">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;for" label="&quot;for">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="can't" label="can't">
+        <attvalues>
+          <attvalue for="0" value="-2.9314718056" />
+        </attvalues>
+      </node>
+      <node id="&quot;midweek" label="&quot;midweek">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#technology" label="#technology">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="jeff" label="jeff">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="color" label="color">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="uk?:" label="uk?:">
+        <attvalues>
+          <attvalue for="0" value="-2.72955074528" />
+        </attvalues>
+      </node>
+      <node id="2nd" label="2nd">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="considering" label="considering">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#music&quot;&#10;" label="#music&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="it's" label="it's">
+        <attvalues>
+          <attvalue for="0" value="0.171686262698" />
+        </attvalues>
+      </node>
+      <node id="&quot;just" label="&quot;just">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#twatchin" label="#twatchin">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="much" label="much">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#2wheels" label="#2wheels">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="then?" label="then?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="c)" label="c)">
+        <attvalues>
+          <attvalue for="0" value="-5.78889830934" />
+        </attvalues>
+      </node>
+      <node id="held?" label="held?">
+        <attvalues>
+          <attvalue for="0" value="-2.49306144334" />
+        </attvalues>
+      </node>
+      <node id="what's" label="what's">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="&quot;changing" label="&quot;changing">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="photos" label="photos">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="be-hotches" label="be-hotches">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="catch" label="catch">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="like?" label="like?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="an" label="an">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="vespa" label="vespa">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="look" label="look">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="budget" label="budget">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#moto" label="#moto">
+        <attvalues>
+          <attvalue for="0" value="-2.49306144334" />
+        </attvalues>
+      </node>
+      <node id="neat" label="neat">
+        <attvalues>
+          <attvalue for="0" value="-4.31776616672" />
+        </attvalues>
+      </node>
+      <node id="many" label="many">
+        <attvalues>
+          <attvalue for="0" value="7.22224408333" />
+        </attvalues>
+      </node>
+      <node id="fun" label="fun">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="advisable" label="advisable">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="them!&quot;&#10;" label="them!&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="launched" label="launched">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="level!" label="level!">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="&quot;a" label="&quot;a">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="doha" label="doha">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#powermetomotogp&quot;&#10;" label="#powermetomotogp&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="-7.98612288668" />
+        </attvalues>
+      </node>
+      <node id="is" label="is">
+        <attvalues>
+          <attvalue for="0" value="1.16226955283" />
+        </attvalues>
+      </node>
+      <node id="&quot;i" label="&quot;i">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="moto" label="moto">
+        <attvalues>
+          <attvalue for="0" value="121.249605354" />
+        </attvalues>
+      </node>
+      <node id="hardware" label="hardware">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="vs" label="vs">
+        <attvalues>
+          <attvalue for="0" value="16.2257103859" />
+        </attvalues>
+      </node>
+      <node id="redmi" label="redmi">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="4-year" label="4-year">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="doctor" label="doctor">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;deux" label="&quot;deux">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="reminded" label="reminded">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="comparison:" label="comparison:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="apart?" label="apart?">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="android" label="android">
+        <attvalues>
+          <attvalue for="0" value="8.0" />
+        </attvalues>
+      </node>
+      <node id="gets" label="gets">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="jarvis..." label="jarvis...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="week" label="week">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;#" label="&quot;#">
+        <attvalues>
+          <attvalue for="0" value="5.02133863223" />
+        </attvalues>
+      </node>
+      <node id="&quot;rt" label="&quot;rt">
+        <attvalues>
+          <attvalue for="0" value="62.4746402459" />
+        </attvalues>
+      </node>
+      <node id="ios" label="ios">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="v." label="v.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="kit" label="kit">
+        <attvalues>
+          <attvalue for="0" value="3.39056208757" />
+        </attvalues>
+      </node>
+      <node id="compared" label="compared">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="#tech&quot;&#10;" label="#tech&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="wheels." label="wheels.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="scarfs!" label="scarfs!">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="yet?" label="yet?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="i" label="i">
+        <attvalues>
+          <attvalue for="0" value="0.171686262698" />
+        </attvalues>
+      </node>
+      <node id="forums:" label="forums:">
+        <attvalues>
+          <attvalue for="0" value="-1.16703787691" />
+        </attvalues>
+      </node>
+      <node id="greatest" label="greatest">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+      <node id="sets" label="sets">
+        <attvalues>
+          <attvalue for="0" value="1.22741127776" />
+        </attvalues>
+      </node>
+      <node id="the" label="the">
+        <attvalues>
+          <attvalue for="0" value="2.40832626799" />
+        </attvalues>
+      </node>
+      <node id="latest" label="latest">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="opinions" label="opinions">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;lots" label="&quot;lots">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="-" label="-">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="using" label="using">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="wearable" label="wearable">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="adding" label="adding">
+        <attvalues>
+          <attvalue for="0" value="3.54814121052" />
+        </attvalues>
+      </node>
+      <node id="hint" label="hint">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="thinking" label="thinking">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="(2013)" label="(2013)">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="work?" label="work?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="has" label="has">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="excited" label="excited">
+        <attvalues>
+          <attvalue for="0" value="0.61370563888" />
+        </attvalues>
+      </node>
+      <node id="smart" label="smart">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="real" label="real">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="..." label="...">
+        <attvalues>
+          <attvalue for="0" value="-1.54517744448" />
+        </attvalues>
+      </node>
+      <node id="ma..." label="ma...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="lazareth" label="lazareth">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="couple" label="couple">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="who's" label="who's">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="protesters" label="protesters">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="know" label="know">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="world" label="world">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="formal" label="formal">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="motorola" label="motorola">
+        <attvalues>
+          <attvalue for="0" value="18.0033864695" />
+        </attvalues>
+      </node>
+      <node id="like" label="like">
+        <attvalues>
+          <attvalue for="0" value="0.211101690655" />
+        </attvalues>
+      </node>
+      <node id="is)?" label="is)?">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="become" label="become">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="is)?:" label="is)?:">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="emig's" label="emig's">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="google" label="google">
+        <attvalues>
+          <attvalue for="0" value="0.802775422664" />
+        </attvalues>
+      </node>
+      <node id="old" label="old">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="people" label="people">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="back" label="back">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;check" label="&quot;check">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="proper" label="proper">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="&quot;#seo" label="&quot;#seo">
+        <attvalues>
+          <attvalue for="0" value="-1.4657359028" />
+        </attvalues>
+      </node>
+      <node id="q2:" label="q2:">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="happens" label="happens">
+        <attvalues>
+          <attvalue for="0" value="1.78112417513" />
+        </attvalues>
+      </node>
+      <node id="&quot;what" label="&quot;what">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="#cutre" label="#cutre">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="best" label="best">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="chiens" label="chiens">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="attacks?" label="attacks?">
+        <attvalues>
+          <attvalue for="0" value="-5.39434654852" />
+        </attvalues>
+      </node>
+      <node id="&quot;@flipkart" label="&quot;@flipkart">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="power" label="power">
+        <attvalues>
+          <attvalue for="0" value="-2.9314718056" />
+        </attvalues>
+      </node>
+      <node id="schedule" label="schedule">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#worldchocolateday!" label="#worldchocolateday!">
+        <attvalues>
+          <attvalue for="0" value="-1.43775164974" />
+        </attvalues>
+      </node>
+      <node id="1936" label="1936">
+        <attvalues>
+          <attvalue for="0" value="-6.88751059801" />
+        </attvalues>
+      </node>
+      <node id="post" label="post">
+        <attvalues>
+          <attvalue for="0" value="-0.295836866004" />
+        </attvalues>
+      </node>
+      <node id="yours!" label="yours!">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="intense" label="intense">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="handset?" label="handset?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="free?" label="free?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="eat" label="eat">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="pho..." label="pho...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="baffles" label="baffles">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="zx14" label="zx14">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="runtime" label="runtime">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="cakes." label="cakes.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="out." label="out.">
+        <attvalues>
+          <attvalue for="0" value="-4.31776616672" />
+        </attvalues>
+      </node>
+      <node id="nexus6" label="nexus6">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="sol" label="sol">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#thefashionedit" label="#thefashionedit">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="for?" label="for?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="starts?&quot;&#10;" label="starts?&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="processor" label="processor">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="prepare" label="prepare">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#soldout&quot;&#10;" label="#soldout&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="start" label="start">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="prettier" label="prettier">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="forward" label="forward">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="buy" label="buy">
+        <attvalues>
+          <attvalue for="0" value="-0.783640596221" />
+        </attvalues>
+      </node>
+      <node id="360:" label="360:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="brand" label="brand">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="360?" label="360?">
+        <attvalues>
+          <attvalue for="0" value="-0.15888308336" />
+        </attvalues>
+      </node>
+      <node id="b)" label="b)">
+        <attvalues>
+          <attvalue for="0" value="-3.59167373201" />
+        </attvalues>
+      </node>
+      <node id="you?" label="you?">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="hi" label="hi">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="360." label="360.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="interested?" label="interested?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="g??" label="g??">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="distinction?" label="distinction?">
+        <attvalues>
+          <attvalue for="0" value="16.7290115681" />
+        </attvalues>
+      </node>
+      <node id="tahu..." label="tahu...">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="us" label="us">
+        <attvalues>
+          <attvalue for="0" value="0.171686262698" />
+        </attvalues>
+      </node>
+      <node id="ur" label="ur">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="#tech" label="#tech">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="un" label="un">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="how" label="how">
+        <attvalues>
+          <attvalue for="0" value="18.89811251" />
+        </attvalues>
+      </node>
+      <node id="360.&quot;&#10;" label="360.&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#stylechat&quot;&#10;" label="#stylechat&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="this?" label="this?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#teaser" label="#teaser">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="toilet" label="toilet">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="#motorola" label="#motorola">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="'1" label="'1">
+        <attvalues>
+          <attvalue for="0" value="3.54814121052" />
+        </attvalues>
+      </node>
+      <node id="differences?:" label="differences?:">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#video" label="#video">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="#party" label="#party">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="et" label="et">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="good&amp;bad&quot;&#10;" label="good&amp;bad&quot;&#10;">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="(2nd" label="(2nd">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="blog:" label="blog:">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="endurance" label="endurance">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="when" label="when">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="hell?" label="hell?">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="compares" label="compares">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="'19" label="'19">
+        <attvalues>
+          <attvalue for="0" value="0.657769452623" />
+        </attvalues>
+      </node>
+      <node id="you" label="you">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="nw" label="nw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="championship" label="championship">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="'s" label="'s">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="a)" label="a)">
+        <attvalues>
+          <attvalue for="0" value="-1.39444915467" />
+        </attvalues>
+      </node>
+      <node id="video:" label="video:">
+        <attvalues>
+          <attvalue for="0" value="-2.9314718056" />
+        </attvalues>
+      </node>
+      <node id="let's" label="let's">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="weekend" label="weekend">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="back?" label="back?">
+        <attvalues>
+          <attvalue for="0" value="-2.85203026392" />
+        </attvalues>
+      </node>
+      <node id="&quot;the" label="&quot;the">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="e" label="e">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="samsung" label="samsung">
+        <attvalues>
+          <attvalue for="0" value="-0.77258872224" />
+        </attvalues>
+      </node>
+      <node id="&quot;motorola's" label="&quot;motorola's">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="paper." label="paper.">
+        <attvalues>
+          <attvalue for="0" value="0.61370563888" />
+        </attvalues>
+      </node>
+      <node id="original" label="original">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="jacket" label="jacket">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="u" label="u">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="time" label="time">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="#ifa2014" label="#ifa2014">
+        <attvalues>
+          <attvalue for="0" value="-0.0794415416798" />
+        </attvalues>
+      </node>
+      <node id="tech." label="tech.">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="hello" label="hello">
+        <attvalues>
+          <attvalue for="0" value="-2.15888308336" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="" target="" />
+      <edge id="1" source="" target="google" />
+      <edge id="2" source="" target="yeah" />
+      <edge id="3" source="" target="moto" />
+      <edge id="4" source="" target="bradshaw" />
+      <edge id="5" source="" target="mins" />
+      <edge id="6" source="" target="herlings" />
+      <edge id="7" source="" target="hmmm" />
+      <edge id="8" source="" target="brazil" />
+      <edge id="9" source="" target="what" />
+      <edge id="10" source="" target="i" />
+      <edge id="11" source="" target="prepare" />
+      <edge id="12" source="" target="thing" />
+      <edge id="13" source="" target="zx14" />
+      <edge id="14" source="" target="note4" />
+      <edge id="15" source="" target="aside" />
+      <edge id="16" source="" target="paulin" />
+      <edge id="17" source="" target="offers" />
+      <edge id="18" source="" target="360" />
+      <edge id="19" source="" target="cristal" />
+      <edge id="20" source="" target="smartphone" />
+      <edge id="21" source="" target="tab3" />
+      <edge id="22" source="" target="couple" />
+      <edge id="23" source="" target="never" />
+      <edge id="24" source="" target="ios" />
+      <edge id="25" source="" target="it?" />
+      <edge id="26" source="" target="be-hotches" />
+      <edge id="27" source="" target="nexus6" />
+      <edge id="28" source="" target="etc?..." />
+      <edge id="29" source="" target="one" />
+      <edge id="30" source="" target="kind" />
+      <edge id="31" source="" target="join" />
+      <edge id="32" source="" target="is)?" />
+      <edge id="33" source="" target="celebrate?" />
+      <edge id="34" source="" target="ktm" />
+      <edge id="35" source="" target="so" />
+      <edge id="36" source="" target="x" />
+      <edge id="37" source="" target="i'm" />
+      <edge id="38" source="" target="is)?:" />
+      <edge id="39" source=":/" target="#cutre" />
+      <edge id="40" source=":/" target="ordered?" />
+      <edge id="41" source="gp" target="championship" />
+      <edge id="42" source="gp" target="moto" />
+      <edge id="43" source="#gadgets" target="uk?" />
+      <edge id="44" source="#gadgets" target="#tech&quot;&#10;" />
+      <edge id="45" source="(if" target="treating" />
+      <edge id="46" source="(if" target="able" />
+      <edge id="47" source="go" target="what" />
+      <edge id="48" source="gossip" target="tahu..." />
+      <edge id="49" source="gossip" target="la" />
+      <edge id="50" source="better?" target="even" />
+      <edge id="51" source="better?" target="watch" />
+      <edge id="52" source="event&quot;&quot;" target="endurance" />
+      <edge id="53" source="event&quot;&quot;" target="would" />
+      <edge id="54" source="tonight's" target="motorola" />
+      <edge id="55" source="tonight's" target="wait" />
+      <edge id="56" source="ever..." target="design" />
+      <edge id="57" source="ever..." target="yours!" />
+      <edge id="58" source="hmmm" target="#worldchocolateday!" />
+      <edge id="59" source=".@umarcheema1" target="many" />
+      <edge id="60" source=".@umarcheema1" target="&quot;rt" />
+      <edge id="61" source="1949" target="a)" />
+      <edge id="62" source="1949" target="b)" />
+      <edge id="63" source="note4" target="samsung" />
+      <edge id="64" source="&quot;&quot;timed" target="vespa" />
+      <edge id="65" source="&quot;&quot;timed" target="endurance" />
+      <edge id="66" source="finally" target="got" />
+      <edge id="67" source="finally" target="&quot;rt" />
+      <edge id="68" source="must" target="start" />
+      <edge id="69" source="must" target="then?" />
+      <edge id="70" source="worth" target="money?:" />
+      <edge id="71" source="worth" target="budget" />
+      <edge id="72" source="brokers?" target="what" />
+      <edge id="73" source="brokers?" target="next" />
+      <edge id="74" source="smartphone" target="new" />
+      <edge id="75" source="smartphone" target="gets" />
+      <edge id="76" source="smartphone" target="cheap-ish" />
+      <edge id="77" source="smartphone" target="exceptional" />
+      <edge id="78" source="today?" target="rt" />
+      <edge id="79" source="today?" target="like" />
+      <edge id="80" source="more:" target="paulin" />
+      <edge id="81" source="more:" target="so" />
+      <edge id="82" source="event?&quot;&#10;" target="moto" />
+      <edge id="83" source="sony" target="xperiaz3?" />
+      <edge id="84" source="sony" target="x+1" />
+      <edge id="85" source="treating" target="360" />
+      <edge id="86" source="button" target="back?" />
+      <edge id="87" source="button" target="power" />
+      <edge id="88" source="list" target="index" />
+      <edge id="89" source="soc?check" target="'s" />
+      <edge id="90" source="soc?check" target="2010" />
+      <edge id="91" source="j..." target="is" />
+      <edge id="92" source="item" target="what" />
+      <edge id="93" source="item" target="look" />
+      <edge id="94" source="small" target="'19" />
+      <edge id="95" source="small" target="ones'" />
+      <edge id="96" source="-&gt;" target="looking" />
+      <edge id="97" source="-&gt;" target="blog:" />
+      <edge id="98" source="&quot;#galaxy#smartphone" target="hello" />
+      <edge id="99" source="amnesty?" target="damn!!&quot;&#10;" />
+      <edge id="100" source="amnesty?" target="&amp;" />
+      <edge id="101" source="answer." target="is" />
+      <edge id="102" source="answer." target="correct" />
+      <edge id="103" source="video" target="s..." />
+      <edge id="104" source="video" target="neat" />
+      <edge id="105" source="#ppc" target="&quot;#seo" />
+      <edge id="106" source="#ppc" target="#mobile" />
+      <edge id="107" source="#bmw" target="think?" />
+      <edge id="108" source="makers" target="phone" />
+      <edge id="109" source="makers" target="ifa" />
+      <edge id="110" source="even" target="gets" />
+      <edge id="111" source="headset" target="headset" />
+      <edge id="112" source="headset" target="still" />
+      <edge id="113" source="headset" target="my" />
+      <edge id="114" source="headset" target="bluetooth" />
+      <edge id="115" source="what" target="opinions" />
+      <edge id="116" source="what" target="via" />
+      <edge id="117" source="what" target="jeff" />
+      <edge id="118" source="what" target="moto" />
+      <edge id="119" source="what" target="are" />
+      <edge id="120" source="what" target="#youtube" />
+      <edge id="121" source="what" target="happens" />
+      <edge id="122" source="what" target="uk." />
+      <edge id="123" source="what" target="hell?" />
+      <edge id="124" source="what" target="should" />
+      <edge id="125" source="what" target="android" />
+      <edge id="126" source="what" target="has" />
+      <edge id="127" source="what" target="workout" />
+      <edge id="128" source="what" target="jarvis..." />
+      <edge id="129" source="what" target="happened" />
+      <edge id="130" source="what" target="&quot;@mashable" />
+      <edge id="131" source="what" target="schedule" />
+      <edge id="132" source="what" target="feeling?&quot;&#10;" />
+      <edge id="133" source="what" target="moto." />
+      <edge id="134" source="what" target="&quot;rt" />
+      <edge id="135" source="what" target="watch" />
+      <edge id="136" source="what" target="yours!" />
+      <edge id="137" source="what" target="think?" />
+      <edge id="138" source="what" target="happened?" />
+      <edge id="139" source="what" target="rt" />
+      <edge id="140" source="what" target="trivia." />
+      <edge id="141" source="what" target="distinction?" />
+      <edge id="142" source="what" target="&quot;oh?" />
+      <edge id="143" source="what" target="name" />
+      <edge id="144" source="what" target="(2014):" />
+      <edge id="145" source="what" target="paper." />
+      <edge id="146" source="what" target="(2013):" />
+      <edge id="147" source="what" target="sets" />
+      <edge id="148" source="suo" target="where's" />
+      <edge id="149" source="suo" target="taken" />
+      <edge id="150" source="suo" target="moto?" />
+      <edge id="151" source="suo" target="moto" />
+      <edge id="152" source="range&#10;" target="index" />
+      <edge id="153" source="gen)" target="(2nd" />
+      <edge id="154" source="gen)" target="releasing?&quot;&#10;" />
+      <edge id="155" source="new" target="sensors?" />
+      <edge id="156" source="new" target="shell" />
+      <edge id="157" source="new" target="look" />
+      <edge id="158" source="new" target="how" />
+      <edge id="159" source="new" target="&quot;motorola's" />
+      <edge id="160" source="new" target="brand" />
+      <edge id="161" source="new" target="motorola's" />
+      <edge id="162" source="new" target="moto" />
+      <edge id="163" source="new" target="you?" />
+      <edge id="164" source="new" target="photos" />
+      <edge id="165" source="new" target="products" />
+      <edge id="166" source="new" target="portfolio" />
+      <edge id="167" source="new" target="post" />
+      <edge id="168" source="x+1" target="moto" />
+      <edge id="169" source="ever" target="&quot;rt" />
+      <edge id="170" source="ever" target="wondered" />
+      <edge id="171" source="exercise" target="creating" />
+      <edge id="172" source="exercise" target="allow" />
+      <edge id="173" source="join" target="free?" />
+      <edge id="174" source="men" target="&quot;what" />
+      <edge id="175" source="men" target="talk" />
+      <edge id="176" source="#motox" target="motorola" />
+      <edge id="177" source="#motox" target="next" />
+      <edge id="178" source="#motox" target="vs" />
+      <edge id="179" source="#motox" target="#youtube" />
+      <edge id="180" source="#motox" target="nw" />
+      <edge id="181" source="cheap-ish" target="quality" />
+      <edge id="182" source="misano!" target="towards" />
+      <edge id="183" source="g?&quot;&#10;" target="moto" />
+      <edge id="184" source="wait" target="for?" />
+      <edge id="185" source="wait" target="would" />
+      <edge id="186" source="wait" target="can't" />
+      <edge id="187" source="samples:" target="took" />
+      <edge id="188" source="ones'" target="'1" />
+      <edge id="189" source="30" target="use" />
+      <edge id="190" source="30" target="mins" />
+      <edge id="191" source="&quot;why" target="moto" />
+      <edge id="192" source="celebrate?" target="take" />
+      <edge id="193" source="products" target="via" />
+      <edge id="194" source="products" target="coming" />
+      <edge id="195" source="products" target="moto" />
+      <edge id="196" source="ordered?" target="doctor" />
+      <edge id="197" source="i'm" target="&quot;rt" />
+      <edge id="198" source="i'm" target="reminded" />
+      <edge id="199" source="i'm" target="talking" />
+      <edge id="200" source="i'm" target="going" />
+      <edge id="201" source="i'm" target="know" />
+      <edge id="202" source="makes" target="hard" />
+      <edge id="203" source="makes" target="one" />
+      <edge id="204" source="apple" target="watch?&quot;&#10;" />
+      <edge id="205" source="apple" target="watch" />
+      <edge id="206" source="apple" target="the" />
+      <edge id="207" source="apple" target="design" />
+      <edge id="208" source="imagine" target="probably" />
+      <edge id="209" source="imagine" target="team." />
+      <edge id="210" source="#csrracing" target="ios" />
+      <edge id="211" source="#csrracing" target="playing" />
+      <edge id="212" source="hint:" target="future" />
+      <edge id="213" source="hint:" target="moto" />
+      <edge id="214" source="&quot;i've" target="got" />
+      <edge id="215" source="&quot;my" target="leather" />
+      <edge id="216" source="herlings" target="ft" />
+      <edge id="217" source=";)" target="#paris" />
+      <edge id="218" source=";)" target="work?" />
+      <edge id="219" source="use" target="never" />
+      <edge id="220" source="eye" target="color" />
+      <edge id="221" source="eye" target="fall?" />
+      <edge id="222" source="would" target="sell" />
+      <edge id="223" source="would" target="look" />
+      <edge id="224" source="would" target="watch" />
+      <edge id="225" source="would" target="360" />
+      <edge id="226" source="&amp;" target="jacket" />
+      <edge id="227" source="&amp;" target="scarfs!" />
+      <edge id="228" source="&amp;" target="hrw" />
+      <edge id="229" source="unplug." target="good&amp;bad&quot;&#10;" />
+      <edge id="230" source="unplug." target="hard" />
+      <edge id="231" source="next" target="level!" />
+      <edge id="232" source="next" target="space" />
+      <edge id="233" source="next" target="ur" />
+      <edge id="234" source="next" target="so" />
+      <edge id="235" source="leaks" target="g" />
+      <edge id="236" source="leaks" target="video:" />
+      <edge id="237" source="camera" target="compared" />
+      <edge id="238" source="camera" target="gen" />
+      <edge id="239" source="cashback" target="100%" />
+      <edge id="240" source="cashback" target="get" />
+      <edge id="241" source="taken" target="cjp" />
+      <edge id="242" source="tell" target="yet?" />
+      <edge id="243" source="tell" target="can" />
+      <edge id="244" source="today" target="news" />
+      <edge id="245" source="today" target="-" />
+      <edge id="246" source="today" target="sale" />
+      <edge id="247" source="today" target="us" />
+      <edge id="248" source="wearable?" target="considering" />
+      <edge id="249" source="wearable?" target="remember" />
+      <edge id="250" source="moto." target="lazareth" />
+      <edge id="251" source="phone" target="many" />
+      <edge id="252" source="phone" target="ma..." />
+      <edge id="253" source="phone" target="make..." />
+      <edge id="254" source="name?" target="first" />
+      <edge id="255" source="moto?" target="where" />
+      <edge id="256" source="moto?" target="kat" />
+      <edge id="257" source="moto:" target="motorola's" />
+      <edge id="258" source="moto:" target="&quot;hello" />
+      <edge id="259" source="moto:" target="hello" />
+      <edge id="260" source="moto:" target="&quot;&quot;&quot;hello" />
+      <edge id="261" source="women" target="around?" />
+      <edge id="262" source="women" target="talk" />
+      <edge id="263" source="women" target="mana" />
+      <edge id="264" source="everybody!!" target="how" />
+      <edge id="265" source="everybody!!" target="hi" />
+      <edge id="266" source="this" target="workout?:" />
+      <edge id="267" source="this" target="creating" />
+      <edge id="268" source="work" target="become" />
+      <edge id="269" source="work" target="greatest" />
+      <edge id="270" source="del" target="#tzr" />
+      <edge id="271" source="del" target="sol" />
+      <edge id="272" source="can" target="wheels." />
+      <edge id="273" source="&quot;from" target="forums:" />
+      <edge id="274" source="think?" target="&quot;rt" />
+      <edge id="275" source="give" target="u" />
+      <edge id="276" source="give" target="ur" />
+      <edge id="277" source="chic" target="how" />
+      <edge id="278" source="chic" target="moto" />
+      <edge id="279" source="turn" target="moto" />
+      <edge id="280" source="turn" target="first" />
+      <edge id="281" source="exceptional" target="happens" />
+      <edge id="282" source="hot" target="like" />
+      <edge id="283" source="hot" target="cakes." />
+      <edge id="284" source="??" target="let's" />
+      <edge id="285" source="??" target="e" />
+      <edge id="286" source="cristal" target="&quot;rt" />
+      <edge id="287" source="lah" target="mana" />
+      <edge id="288" source="lah" target="tahu..." />
+      <edge id="289" source="after" target="eat" />
+      <edge id="290" source="after" target="an" />
+      <edge id="291" source="different" target="so" />
+      <edge id="292" source="different" target="moto" />
+      <edge id="293" source="#weekendride" target="#yamaha" />
+      <edge id="294" source="#weekendride" target="#moto" />
+      <edge id="295" source="coming" target="uk?" />
+      <edge id="296" source="coming" target="uk?&quot;&quot;" />
+      <edge id="297" source="coming" target="uk?:" />
+      <edge id="298" source="remember" target="wearing" />
+      <edge id="299" source="watches." target="you" />
+      <edge id="300" source="watches." target="smart" />
+      <edge id="301" source="green" target="shell" />
+      <edge id="302" source="green" target="&quot;@flipkart" />
+      <edge id="303" source="#mobile" target="&quot;#seo" />
+      <edge id="304" source="#mobile" target="#website" />
+      <edge id="305" source="#mobile" target="motorola" />
+      <edge id="306" source="allow" target="..." />
+      <edge id="307" source="???" target="100%" />
+      <edge id="308" source="???" target="=" />
+      <edge id="309" source="playing" target="fun" />
+      <edge id="310" source="#ride" target="#2wheels" />
+      <edge id="311" source="#ride" target="#moto" />
+      <edge id="312" source="still" target="visible?" />
+      <edge id="313" source="still" target="hell?" />
+      <edge id="314" source="still" target="day" />
+      <edge id="315" source="20" target="attacks?" />
+      <edge id="316" source="20" target="killed/injured" />
+      <edge id="317" source="la" target="kot" />
+      <edge id="318" source="sale" target="360" />
+      <edge id="319" source="gen" target="2nd" />
+      <edge id="320" source="better" target="much" />
+      <edge id="321" source="better" target="power" />
+      <edge id="322" source="better" target="providing" />
+      <edge id="323" source="better" target="latest" />
+      <edge id="324" source="offers" target="best" />
+      <edge id="325" source="choose" target="held?" />
+      <edge id="326" source="choose" target="correct" />
+      <edge id="327" source="2014" target="x" />
+      <edge id="328" source="2014" target="specs" />
+      <edge id="329" source="2010" target="moto360" />
+      <edge id="330" source="happened" target="protesters" />
+      <edge id="331" source="good" target="quality" />
+      <edge id="332" source="good" target="g" />
+      <edge id="333" source="&quot;new" target="moto" />
+      <edge id="334" source="workout" target="post" />
+      <edge id="335" source="workout" target="meal" />
+      <edge id="336" source="break" target="android" />
+      <edge id="337" source="break" target="take" />
+      <edge id="338" source="happened?" target="rt" />
+      <edge id="339" source="1951" target="c)" />
+      <edge id="340" source="1951" target="b)" />
+      <edge id="341" source="day" target="go?" />
+      <edge id="342" source="software/ui" target="&quot;rt" />
+      <edge id="343" source="software/ui" target="aside" />
+      <edge id="344" source="name" target="u" />
+      <edge id="345" source="aware?" target="and" />
+      <edge id="346" source="aware?" target="moto" />
+      <edge id="347" source="ifa" target="week..." />
+      <edge id="348" source="found" target="we" />
+      <edge id="349" source="found" target="out." />
+      <edge id="350" source="workout?:" target="intense" />
+      <edge id="351" source="yeah" target="rt" />
+      <edge id="352" source="bluetooth" target="future" />
+      <edge id="353" source="&quot;motorola" target="=" />
+      <edge id="354" source="&quot;motorola" target="moto" />
+      <edge id="355" source="ft" target="catch" />
+      <edge id="356" source="happen" target="supposed" />
+      <edge id="357" source="happen" target="first" />
+      <edge id="358" source="thing" target="baffles" />
+      <edge id="359" source="event" target="360" />
+      <edge id="360" source="event" target="starts?&quot;&#10;" />
+      <edge id="361" source="rt" target="scarfs!" />
+      <edge id="362" source="rt" target="the" />
+      <edge id="363" source="(2013):" target="x" />
+      <edge id="364" source="(2013):" target="g" />
+      <edge id="365" source="wondered" target="riding" />
+      <edge id="366" source="space" target="watch" />
+      <edge id="367" source="in?&quot;&#10;" target="who's" />
+      <edge id="368" source="#technology&quot;&#10;" target="uk?" />
+      <edge id="369" source="looking" target="towards" />
+      <edge id="370" source="got" target="proper" />
+      <edge id="371" source="got" target="people" />
+      <edge id="372" source="got" target="moto" />
+      <edge id="373" source="jacket!?" target="which" />
+      <edge id="374" source="jacket!?" target="moto" />
+      <edge id="375" source="cjp" target="why" />
+      <edge id="376" source="e." target="interested?" />
+      <edge id="377" source="e." target="moto" />
+      <edge id="378" source="e:" target="king" />
+      <edge id="379" source="e:" target="moto" />
+      <edge id="380" source="g" target="(2014)" />
+      <edge id="381" source="g" target="&quot;moto" />
+      <edge id="382" source="g" target="(2014):" />
+      <edge id="383" source="g" target="(2013)" />
+      <edge id="384" source="g" target="2nd" />
+      <edge id="385" source="g" target="moto" />
+      <edge id="386" source="where" target="hrw" />
+      <edge id="387" source="happening?" target="is" />
+      <edge id="388" source="happening?" target="heck" />
+      <edge id="389" source="go?" target="are" />
+      <edge id="390" source="heck" target="so" />
+      <edge id="391" source="lte" target="x" />
+      <edge id="392" source="lte" target="bands?" />
+      <edge id="393" source="think" target="i" />
+      <edge id="394" source="think" target="knew" />
+      <edge id="395" source="first" target="real" />
+      <edge id="396" source="first" target="&quot;a" />
+      <edge id="397" source="first" target="look" />
+      <edge id="398" source="first" target="when" />
+      <edge id="399" source="first" target="formal" />
+      <edge id="400" source="major" target="the" />
+      <edge id="401" source="major" target="differences?:" />
+      <edge id="402" source="blown" target="how" />
+      <edge id="403" source="blown" target="zx14" />
+      <edge id="404" source="feel" target="i" />
+      <edge id="405" source="feel" target="adding" />
+      <edge id="406" source="feel" target="bad" />
+      <edge id="407" source="feel" target="one" />
+      <edge id="408" source="one" target="wearing" />
+      <edge id="409" source="one" target="buy" />
+      <edge id="410" source="one" target="how" />
+      <edge id="411" source="you're" target="kind" />
+      <edge id="412" source="you're" target="after?" />
+      <edge id="413" source="1s" target="redmi" />
+      <edge id="414" source="1s" target="vs" />
+      <edge id="415" source="killed/injured" target="staffers" />
+      <edge id="416" source="anyone" target="..." />
+      <edge id="417" source="anyone" target="&quot;rt" />
+      <edge id="418" source="anyone" target="so" />
+      <edge id="419" source="anyone" target="know" />
+      <edge id="420" source="#radio" target="#music&quot;&#10;" />
+      <edge id="421" source="#radio" target="#party" />
+      <edge id="422" source="kot" target="pasai" />
+      <edge id="423" source="&quot;#engadget" target="#tech" />
+      <edge id="424" source="took" target="we" />
+      <edge id="425" source="first?" target="we" />
+      <edge id="426" source="first?" target="compared" />
+      <edge id="427" source="hypocrites&quot;&#10;" target="order?" />
+      <edge id="428" source="here's" target="omap5432" />
+      <edge id="429" source="here's" target="neat" />
+      <edge id="430" source="here's" target="announcements?" />
+      <edge id="431" source="here's" target="efficiency?" />
+      <edge id="432" source="uk?" target="#technology" />
+      <edge id="433" source="uk?" target="#technews&quot;&#10;" />
+      <edge id="434" source="king" target="budget" />
+      <edge id="435" source="efficiency?" target="power" />
+      <edge id="436" source="&quot;@aylamonic" target="the" />
+      <edge id="437" source="&quot;millet" target="redmi" />
+      <edge id="438" source="#yamaha" target="ride?" />
+      <edge id="439" source="#yamaha" target="#cutre" />
+      <edge id="440" source="#yamaha" target="#tzr" />
+      <edge id="441" source="specs" target="comparison:" />
+      <edge id="442" source="future" target="hint" />
+      <edge id="443" source="supposed" target="what's" />
+      <edge id="444" source="design" target="hardware" />
+      <edge id="445" source="design" target="best" />
+      <edge id="446" source="providing" target="omap3630" />
+      <edge id="447" source="and" target="power" />
+      <edge id="448" source="fall?" target="wearing" />
+      <edge id="449" source="fall?" target="#stylechat&quot;&#10;" />
+      <edge id="450" source="fall?" target="#thefashionedit" />
+      <edge id="451" source="modern" target="scrambler" />
+      <edge id="452" source="modern" target="&quot;check" />
+      <edge id="453" source="talking" target="about." />
+      <edge id="454" source="sell" target="like" />
+      <edge id="455" source="able" target="buy" />
+      <edge id="456" source="pasai" target="kereta" />
+      <edge id="457" source="hunnid'" target="'1" />
+      <edge id="458" source="hunnid'" target="get" />
+      <edge id="459" source="changed?" target="#twatchin" />
+      <edge id="460" source="changed?" target="has" />
+      <edge id="461" source="which" target="color" />
+      <edge id="462" source="so" target="&quot;rt" />
+      <edge id="463" source="so" target="is)?:" />
+      <edge id="464" source="so" target="cakes." />
+      <edge id="465" source="!&quot;&#10;" target="happens" />
+      <edge id="466" source="tab3" target="e" />
+      <edge id="467" source="knew" target="moto" />
+      <edge id="468" source="staffers" target="many" />
+      <edge id="469" source="where's" target="shot?" />
+      <edge id="470" source="order?" target="moto" />
+      <edge id="471" source="kat" target="kit" />
+      <edge id="472" source="device" target="android" />
+      <edge id="473" source="device" target="excited" />
+      <edge id="474" source="why" target="attacks?" />
+      <edge id="475" source="ka" target="..." />
+      <edge id="476" source="ka" target="kereta" />
+      <edge id="477" source="ka" target="moto" />
+      <edge id="478" source="scrambler" target="lazareth" />
+      <edge id="479" source="#technews&quot;&#10;" target="#technology" />
+      <edge id="480" source="ride?" target="weekend" />
+      <edge id="481" source="wear." target="android" />
+      <edge id="482" source="wear." target="google" />
+      <edge id="483" source="while." target="dalvik" />
+      <edge id="484" source="while." target="is" />
+      <edge id="485" source="portfolio" target="moto" />
+      <edge id="486" source="find" target="how:..." />
+      <edge id="487" source="find" target="interested?" />
+      <edge id="488" source="announcements?" target="motorola" />
+      <edge id="489" source="should" target="you" />
+      <edge id="490" source="#tzr" target="#moto" />
+      <edge id="491" source="team." target="360" />
+      <edge id="492" source="going" target="moto" />
+      <edge id="493" source="going" target="-" />
+      <edge id="494" source="going" target="work?" />
+      <edge id="495" source="&quot;having" target="fun" />
+      <edge id="496" source="riding" target="coast" />
+      <edge id="497" source="shot?" target="protesters" />
+      <edge id="498" source="wearing" target="forward" />
+      <edge id="499" source="get" target="brand" />
+      <edge id="500" source="get" target="moto" />
+      <edge id="501" source="watch" target="moto" />
+      <edge id="502" source="watch" target="prettier" />
+      <edge id="503" source="watch" target="360" />
+      <edge id="504" source="lucky" target="&quot;for" />
+      <edge id="505" source="lucky" target="people" />
+      <edge id="506" source="coast" target="vespa" />
+      <edge id="507" source="coast" target="coast" />
+      <edge id="508" source="omap3630" target="processor" />
+      <edge id="509" source="about." target="who's" />
+      <edge id="510" source="trivia." target="manager" />
+      <edge id="511" source="manager" target="moto" />
+      <edge id="512" source="leather" target="moto" />
+      <edge id="513" source="&quot;moto" target="360." />
+      <edge id="514" source="bad" target="moto" />
+      <edge id="515" source="&quot;#technolgynews" target="motorola" />
+      <edge id="516" source="x" target="(2014)" />
+      <edge id="517" source="x" target="(2nd" />
+      <edge id="518" source="x" target="moto" />
+      <edge id="519" source="art" target="dalvik" />
+      <edge id="520" source="art" target="runtime" />
+      <edge id="521" source="w..." target="(2013)" />
+      <edge id="522" source="see" target="let's" />
+      <edge id="523" source="see" target="happens" />
+      <edge id="524" source="see" target="us" />
+      <edge id="525" source="decided" target="thinking" />
+      <edge id="526" source="decided" target="power" />
+      <edge id="527" source="are" target="the" />
+      <edge id="528" source="are" target="kidding?&quot;&#10;" />
+      <edge id="529" source="seo" target="motorola" />
+      <edge id="530" source="seo" target="&quot;#" />
+      <edge id="531" source="&quot;whats" target="ur" />
+      <edge id="532" source="wonder" target="compares" />
+      <edge id="533" source="wonder" target="&quot;i" />
+      <edge id="534" source="said" target="i" />
+      <edge id="535" source="said" target="last" />
+      <edge id="536" source="uk." target="us" />
+      <edge id="537" source="review" target="-" />
+      <edge id="538" source="review" target="'s" />
+      <edge id="539" source="&quot;ok" target="jarvis..." />
+      <edge id="540" source="probably" target="greatest" />
+      <edge id="541" source="360" target="moto" />
+      <edge id="542" source="360" target="using" />
+      <edge id="543" source="we" target="compared" />
+      <edge id="544" source="we" target="differences?:" />
+      <edge id="545" source="we" target="apart?" />
+      <edge id="546" source="news" target="moto" />
+      <edge id="547" source="(2014)" target="vs" />
+      <edge id="548" source="last" target="week" />
+      <edge id="549" source="moto360" target="power" />
+      <edge id="550" source="#website" target="motorola" />
+      <edge id="551" source="can't" target="video:" />
+      <edge id="552" source="&quot;midweek" target="moto" />
+      <edge id="553" source="jeff" target="emig's" />
+      <edge id="554" source="uk?:" target="like" />
+      <edge id="555" source="considering" target="360:" />
+      <edge id="556" source="it's" target="#worldchocolateday!" />
+      <edge id="557" source="it's" target="&quot;rt" />
+      <edge id="558" source="&quot;just" target="the" />
+      <edge id="559" source="much" target="comparison:" />
+      <edge id="560" source="then?" target="buy" />
+      <edge id="561" source="c)" target="1936" />
+      <edge id="562" source="held?" target="championship" />
+      <edge id="563" source="what's" target="is" />
+      <edge id="564" source="&quot;changing" target="runtime" />
+      <edge id="565" source="be-hotches" target="couple" />
+      <edge id="566" source="catch" target="moto" />
+      <edge id="567" source="like?" target="look" />
+      <edge id="568" source="like?" target="back" />
+      <edge id="569" source="an" target="intense" />
+      <edge id="570" source="look" target="like" />
+      <edge id="571" source="look" target="schedule" />
+      <edge id="572" source="look" target="forward" />
+      <edge id="573" source="#moto" target="#motorola" />
+      <edge id="574" source="#moto" target="ur" />
+      <edge id="575" source="many" target="like" />
+      <edge id="576" source="many" target="pho..." />
+      <edge id="577" source="fun" target="&quot;lots" />
+      <edge id="578" source="fun" target="moto" />
+      <edge id="579" source="advisable" target="is" />
+      <edge id="580" source="advisable" target="moto" />
+      <edge id="581" source="them!&quot;&#10;" target="using" />
+      <edge id="582" source="launched" target="#teaser" />
+      <edge id="583" source="launched" target="#motorola" />
+      <edge id="584" source="doha" target="proper" />
+      <edge id="585" source="doha" target="wheels." />
+      <edge id="586" source="#powermetomotogp&quot;&#10;" target="1936" />
+      <edge id="587" source="is" target="a)" />
+      <edge id="588" source="is" target="&quot;rt" />
+      <edge id="589" source="moto" target="vs" />
+      <edge id="590" source="moto" target="world" />
+      <edge id="591" source="moto" target="&quot;what" />
+      <edge id="592" source="moto" target="hint" />
+      <edge id="593" source="moto" target="-" />
+      <edge id="594" source="moto" target="the" />
+      <edge id="595" source="moto" target="thinking" />
+      <edge id="596" source="moto" target="compares" />
+      <edge id="597" source="moto" target="360:" />
+      <edge id="598" source="moto" target="&quot;rt" />
+      <edge id="599" source="moto" target="360?" />
+      <edge id="600" source="moto" target="g??" />
+      <edge id="601" source="moto" target="v." />
+      <edge id="602" source="moto" target="opinions" />
+      <edge id="603" source="moto" target="360.&quot;&#10;" />
+      <edge id="604" source="moto" target="week" />
+      <edge id="605" source="moto" target="motorola" />
+      <edge id="606" source="moto" target="e" />
+      <edge id="607" source="moto" target="jacket" />
+      <edge id="608" source="moto" target="un" />
+      <edge id="609" source="moto" target="time" />
+      <edge id="610" source="moto" target="original" />
+      <edge id="611" source="hardware" target="prettier" />
+      <edge id="612" source="4-year" target="using" />
+      <edge id="613" source="4-year" target="old" />
+      <edge id="614" source="doctor" target="the" />
+      <edge id="615" source="&quot;deux" target="chiens" />
+      <edge id="616" source="reminded" target="i" />
+      <edge id="617" source="apart?" target="sets" />
+      <edge id="618" source="android" target="kit" />
+      <edge id="619" source="android" target="360." />
+      <edge id="620" source="&quot;rt" target="i" />
+      <edge id="621" source="&quot;rt" target="how" />
+      <edge id="622" source="&quot;rt" target="hi" />
+      <edge id="623" source="&quot;rt" target="time" />
+      <edge id="624" source="&quot;rt" target="q2:" />
+      <edge id="625" source="&quot;rt" target="the" />
+      <edge id="626" source="&quot;rt" target="motorola" />
+      <edge id="627" source="v." target="(2013)" />
+      <edge id="628" source="compared" target="original" />
+      <edge id="629" source="i" target="buy" />
+      <edge id="630" source="forums:" target="how" />
+      <edge id="631" source="the" target="for?" />
+      <edge id="632" source="latest" target="handset?" />
+      <edge id="633" source="-" target="how" />
+      <edge id="634" source="using" target="start" />
+      <edge id="635" source="wearable" target="google" />
+      <edge id="636" source="wearable" target="tech." />
+      <edge id="637" source="adding" target="'19" />
+      <edge id="638" source="excited" target="#ifa2014" />
+      <edge id="639" source="smart" target="tech." />
+      <edge id="640" source="real" target="emig's" />
+      <edge id="641" source="ma..." target="#party" />
+      <edge id="642" source="know" target="you" />
+      <edge id="643" source="know" target="time" />
+      <edge id="644" source="world" target="baffles" />
+      <edge id="645" source="world" target="formal" />
+      <edge id="646" source="become" target="toilet" />
+      <edge id="647" source="google" target="nexus6" />
+      <edge id="648" source="old" target="processor" />
+      <edge id="649" source="back" target="us" />
+      <edge id="650" source="q2:" target="when" />
+      <edge id="651" source="best" target="post" />
+      <edge id="652" source="best" target="&quot;the" />
+      <edge id="653" source="chiens" target="et" />
+      <edge id="654" source="post" target="blog:" />
+      <edge id="655" source="eat" target="you" />
+      <edge id="656" source="prepare" target="this?" />
+      <edge id="657" source="#soldout&quot;&#10;" target="this?" />
+      <edge id="658" source="you?" target="how" />
+      <edge id="659" source="#tech" target="hello" />
+      <edge id="660" source="un" target="et" />
+      <edge id="661" source="how" target="weekend" />
+      <edge id="662" source="#teaser" target="#video" />
+      <edge id="663" source="toilet" target="paper." />
+      <edge id="664" source="#video" target="nw" />
+      <edge id="665" source="samsung" target="#ifa2014" />
+    </edges>
+  </graph>
+</gexf>

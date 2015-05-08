@@ -1,0 +1,3 @@
+Google Play edition devices are Google-sanctioned Android phones and tablets that, while not carrying the Google Nexus branding, run an unmodified version of Android, as opposed to "skinned" versions of Android such as Samsung's Touchwiz or HTC's Sense, and are offered in Google's Play Store.
+Updates for these devices are delivered by Google (bypassing carriers), but are supplied by the original device manufacturer. Although, the updates are not supplied directly by Google, these devices receive Android updates along with the products from the Nexus line.
+As of August 2014, two Google Play edition phones are available in the Google Play store: the HTC One (M8) and the Moto G.

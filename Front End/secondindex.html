@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Hyacinth 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20131010
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!-- <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" /> -->
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<style type="text/css">
+  #container {
+    max-width: 400px;
+    height: 400px;
+    margin: auto;
+  }
+</style>
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+		<div class="title">
+			<h1>Ontology Search</h1>
+		<div class="content">
+			<form method="post" action="secondindex.html">
+				<div class="row half">
+					<div class="6u">
+						<input type="text" class="text" name="search" placeholder="Eg. Motorola" />
+					</div>
+				</div>
+				<div class="row">
+					<div class="12u"> <a href="#" class="button submit">Search</a> </div>
+				</div>
+			</form>
+		</div>
+	</div>
+	</div>
+</div>
+<div id="wrapper2">
+	<div id="newsletter" class="container">
+<script type="text/javascript" src="amcharts/amcharts.js"></script>
+<script type="text/javascript" src="amcharts/pie.js"></script>
+<script type="text/javascript" src="amcharts/themes/none.js"></script>
+<script type="text/javascript" src="amchart_donut.js"></script>
+<!-- <link rel="stylesheet" type="text/css" href="amchart.css"></link> -->
+<script type="text/javascript" src="amcharts/amcharts.js"></script>
+<script type="text/javascript" src="amcharts/serial.js"></script>
+<script type="text/javascript" src="amcharts/themes/none.js"></script>
+<script type="text/javascript" src="amchart_tweetvolume.js"></script>
+<script src="sigma.min.js"></script>
+<script src="plugins/sigma.parsers.json.min.js"></script>
+<!-- <link rel="stylesheet" type="text/css" href="amchart.css"></link> -->
+    <table cellspacing="50">
+	<tr>
+		<td><div id="chartdiv" style="width: 700px; height: 450px;"></div></td> 
+		<td><div id="chartdiv2" style="width: 700px; height: 450px;"></div></td>
+	</tr>
+	</tr> 
+		<td><div id="reptweetframe" style="width:700px; height: 450px; text-align:left; color:#4099FF;"></div></td>
+	</tr>
+	<tr>
+		<td colspan="2"><div id="container"></div>
+			<script>
+			  sigma.parsers.json('data.json', {
+				container: 'container',
+				settings: {
+				  defaultNodeColor: '#ec5148',
+				  edgeColor : "target",
+				  defaultEdgeColor : "blue",
+				  defaultNodeBorderColor : "black"
+				  
+				}
+			});
+			</script></td>	
+	</tr>
+	</table>
+</div>
+</div>
+<!--<div id="copyright" class="container">
+	<p>&copy; MJP. All rights reserved. | Photos by Apoorva Chandra | Design by Team Alpha.</p>
+</div>-->
+</body>
+</html>

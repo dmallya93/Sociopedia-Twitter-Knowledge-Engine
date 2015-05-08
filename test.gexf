@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="size" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="Asus - ZenWatch" label="Asus - ZenWatch">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="#Apple - Watch" label="#Apple - Watch">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="apple" label="apple">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Nokia - Lumia" label="Nokia - Lumia">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </node>
+      <node id="LG - G" label="LG - G">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="Pixie - Lott" label="Pixie - Lott">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="FIBA - Adv" label="FIBA - Adv">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Digsethe" label="Digsethe">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="moto" label="moto" />
+      <node id="Google - News" label="Google - News">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="SEO - Moto" label="SEO - Moto">
+        <attvalues>
+          <attvalue for="0" value="117" />
+        </attvalues>
+      </node>
+      <node id="Spec" label="Spec">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </node>
+      <node id="Apple - iPhone" label="Apple - iPhone">
+        <attvalues>
+          <attvalue for="0" value="75" />
+        </attvalues>
+      </node>
+      <node id="Motorola - Moto" label="Motorola - Moto">
+        <attvalues>
+          <attvalue for="0" value="470" />
+        </attvalues>
+      </node>
+      <node id="Apple - Watch" label="Apple - Watch">
+        <attvalues>
+          <attvalue for="0" value="67" />
+        </attvalues>
+      </node>
+      <node id="#Google" label="#Google">
+        <attvalues>
+          <attvalue for="0" value="137" />
+        </attvalues>
+      </node>
+      <node id="SEO - Motorola" label="SEO - Motorola">
+        <attvalues>
+          <attvalue for="0" value="120" />
+        </attvalues>
+      </node>
+      <node id="Smartwatch" label="Smartwatch">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="Xiaomi - Redmi" label="Xiaomi - Redmi">
+        <attvalues>
+          <attvalue for="0" value="130" />
+        </attvalues>
+      </node>
+      <node id="LG - G-Watch" label="LG - G-Watch">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="SEO" label="SEO">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="Nokia" label="Nokia">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Google - Nexus" label="Google - Nexus">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="Samsung" label="Samsung">
+        <attvalues>
+          <attvalue for="0" value="88" />
+        </attvalues>
+      </node>
+      <node id="Moto - X" label="Moto - X">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="Moto - G" label="Moto - G">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </node>
+      <node id="Wandifungisa - munhu" label="Wandifungisa - munhu">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="iPhone" label="iPhone">
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </node>
+      <node id="Sony - Xperia" label="Sony - Xperia">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="HTC - Boomsound" label="HTC - Boomsound">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="#motorola - Motorola" label="#motorola - Motorola">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="Xiaomi - Mi3" label="Xiaomi - Mi3">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Podolski" label="Podolski">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="#Apple" label="#Apple">
+        <attvalues>
+          <attvalue for="0" value="340" />
+        </attvalues>
+      </node>
+      <node id="SEO - Samsung" label="SEO - Samsung">
+        <attvalues>
+          <attvalue for="0" value="204" />
+        </attvalues>
+      </node>
+      <node id="HTC" label="HTC">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="Moto" label="Moto">
+        <attvalues>
+          <attvalue for="0" value="191" />
+        </attvalues>
+      </node>
+      <node id="Moto - G2" label="Moto - G2">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Apple - iWatch" label="Apple - iWatch">
+        <attvalues>
+          <attvalue for="0" value="199" />
+        </attvalues>
+      </node>
+      <node id="Comparativa" label="Comparativa">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Nokia - XL" label="Nokia - XL">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="moto" target="Asus - ZenWatch" />
+      <edge id="1" source="moto" target="#Apple - Watch" />
+      <edge id="2" source="moto" target="apple" />
+      <edge id="3" source="moto" target="Nokia - Lumia" />
+      <edge id="4" source="moto" target="LG - G" />
+      <edge id="5" source="moto" target="Pixie - Lott" />
+      <edge id="6" source="moto" target="FIBA - Adv" />
+      <edge id="7" source="moto" target="Digsethe" />
+      <edge id="8" source="moto" target="Xiaomi - Mi3" />
+      <edge id="9" source="moto" target="Google - News" />
+      <edge id="10" source="moto" target="SEO - Moto" />
+      <edge id="11" source="moto" target="Spec" />
+      <edge id="12" source="moto" target="Apple - iPhone" />
+      <edge id="13" source="moto" target="Motorola - Moto" />
+      <edge id="14" source="moto" target="Apple - Watch" />
+      <edge id="15" source="moto" target="#Google" />
+      <edge id="16" source="moto" target="SEO - Motorola" />
+      <edge id="17" source="moto" target="Smartwatch" />
+      <edge id="18" source="moto" target="Xiaomi - Redmi" />
+      <edge id="19" source="moto" target="LG - G-Watch" />
+      <edge id="20" source="moto" target="SEO" />
+      <edge id="21" source="moto" target="Nokia" />
+      <edge id="22" source="moto" target="Google - Nexus" />
+      <edge id="23" source="moto" target="Samsung" />
+      <edge id="24" source="moto" target="Moto - X" />
+      <edge id="25" source="moto" target="Moto - G" />
+      <edge id="26" source="moto" target="Wandifungisa - munhu" />
+      <edge id="27" source="moto" target="iPhone" />
+      <edge id="28" source="moto" target="Sony - Xperia" />
+      <edge id="29" source="moto" target="HTC - Boomsound" />
+      <edge id="30" source="moto" target="#motorola - Motorola" />
+      <edge id="31" source="moto" target="Podolski" />
+      <edge id="32" source="moto" target="#Apple" />
+      <edge id="33" source="moto" target="SEO - Samsung" />
+      <edge id="34" source="moto" target="HTC" />
+      <edge id="35" source="moto" target="Moto" />
+      <edge id="36" source="moto" target="Moto - G2" />
+      <edge id="37" source="moto" target="Apple - iWatch" />
+      <edge id="38" source="moto" target="Comparativa" />
+      <edge id="39" source="moto" target="Nokia - XL" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,12 @@
+<html>
+<body>
+<script type="text/javascript" src="amcharts/amcharts.js"></script>
+<script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+<script type="text/javascript" src="amcharts/themes/none.js"></script>
+<script type="text/javascript" src="amchart_donut.js"></script>
+<!-- <link rel="stylesheet" type="text/css" href="amchart.css"></link> -->
+
+    <div id="chartdiv" style="width: 1360px; height: 700px;"></div>
+
+</body>		
+</html>																

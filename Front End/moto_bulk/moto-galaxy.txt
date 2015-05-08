@@ -1,0 +1,2 @@
+AMOLED (active-matrix organic light-emitting diode) is a display technology for use in mobile devices and televisions. OLED describes a specific type of thin-film-display technology in which organic compounds form the electroluminescent material, and active matrix refers to the technology behind the addressing of pixels.
+As of 2012, AMOLED technology is used in mobile phones, media players and digital cameras, and continues to make progress toward low-power, low-cost and large-size (for example, 40-inch) applications.
